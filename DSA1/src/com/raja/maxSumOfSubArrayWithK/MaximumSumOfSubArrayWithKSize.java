@@ -1,6 +1,6 @@
 package com.raja.maxSumOfSubArrayWithK;
 
-
+// Sliding window Technique
 public class MaximumSumOfSubArrayWithKSize {
 
     public static void main(String[] args) {

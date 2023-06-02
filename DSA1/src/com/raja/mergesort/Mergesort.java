@@ -2,6 +2,8 @@ package com.raja.mergesort;
 
 import java.util.Arrays;
 
+
+// Devide and Conquire
 public class Mergesort {
     public static void main(String[] args) {
         System.out.println("Practice Merge Sort1");

@@ -2,6 +2,7 @@ package com.raja.MoveZeroes;
 
 import java.util.Arrays;
 
+//  Equi-Directional Two pointer Technique
 public class MoveZeros {
     public static void main(String[] args) {
         int[] nums = {0, 1, 0, 3, 12};
