@@ -12,6 +12,8 @@ public class Main {
         RemoveDuplicates rd=new RemoveDuplicates();
         rd.deleteDuplicates(ll);
         ll.traverseLL();
-
+        NthToLast nl=new NthToLast();
+        Node n=nl.nthToLast(ll,3);
+    System.out.println("Nth Node to Last Val::"+n.value);
     }
 }
