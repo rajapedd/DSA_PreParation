@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DSA1/DSA1.iml" filepath="$PROJECT_DIR$/DSA1/DSA1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA_PreParation.iml" filepath="$PROJECT_DIR$/.idea/DSA_PreParation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoubtsModules/DoubtsModules.iml" filepath="$PROJECT_DIR$/DoubtsModules/DoubtsModules.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedListDataStructure/LinkedListDataStructure.iml" filepath="$PROJECT_DIR$/LinkedListDataStructure/LinkedListDataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedListQuestions/LinkedListQuestions.iml" filepath="$PROJECT_DIR$/LinkedListQuestions/LinkedListQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
     </modules>
   </component>
 </project>
