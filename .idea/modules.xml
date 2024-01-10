@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/DoubtsModules/DoubtsModules.iml" filepath="$PROJECT_DIR$/DoubtsModules/DoubtsModules.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedListDataStructure/LinkedListDataStructure.iml" filepath="$PROJECT_DIR$/LinkedListDataStructure/LinkedListDataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedListQuestions/LinkedListQuestions.iml" filepath="$PROJECT_DIR$/LinkedListQuestions/LinkedListQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootApplicationDemo/SpringBootApplicationDemo.iml" filepath="$PROJECT_DIR$/SpringBootApplicationDemo/SpringBootApplicationDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
     </modules>
   </component>

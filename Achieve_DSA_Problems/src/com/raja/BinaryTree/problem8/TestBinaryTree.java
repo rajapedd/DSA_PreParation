@@ -1,4 +1,4 @@
-package com.raja.BinaryTree;
+package com.raja.BinaryTree.problem8;
 
 import java.util.ArrayList;
 import java.util.List;

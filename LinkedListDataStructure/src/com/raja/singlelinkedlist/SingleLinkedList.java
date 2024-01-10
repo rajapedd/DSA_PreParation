@@ -4,14 +4,11 @@ public class SingleLinkedList {
 	public Node head;
 	public Node tail;
 	public int size;
-	
-	
+
 	public Node createSingleLinkedList(int newData) {
 		head = new Node();
-		
 		Node newNode=new Node();
 		newNode.newValue=newData;
-		
 		newNode.next=head.next;
 		head=newNode;
 		tail=newNode;
